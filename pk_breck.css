@@ -1,0 +1,12 @@
+body {
+  background-image:url('images/snowflakes.gif');
+}
+
+h1, h2, h3, p {
+  color: #EEE;
+}
+
+hr {
+  width: 600px;
+  margin: 40px auto 50px auto;
+}
